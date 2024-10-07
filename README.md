@@ -3,7 +3,7 @@
 
 The file 'sinogram.py' calculates the Radon transform of a grayscale square image in .txt format.
 The file 'Filtered_back_projection.py' calculates the Radon transform of a grayscale square image in .txt format, then applies filtered back projection to the Radon transform.
-The file 'convert_grayscale.py' allows you to convert a jpg or png image into a grayscale .txt format.
+The file 'convert_grayscale_txt.py' allows you to convert a jpg or png image into a grayscale .txt format.
 Use square image.
 
 You can use the following files to calculate Radon and iRadon transforms:
