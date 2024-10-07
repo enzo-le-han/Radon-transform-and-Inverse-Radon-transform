@@ -17,6 +17,6 @@ Don't forget to input the links to your images at the beginning of the 'sinogram
 ![shepp_logan](image/shepp-logan.png)
 
 
-**Reconstruction of an image of a dog after a Radon transform on the image**
+**Reconstruction of a dog's image following a Radon transform**
 
 ![dog_reconstructed](image/dog_reconstructed.png)
