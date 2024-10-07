@@ -9,4 +9,4 @@ Use square image.
 You can use the following files to calculate Radon and iRadon transforms:
 The file 'phantom.txt' contains the attenuation coefficient values of the Shepp-Logan phantom in 256*256 pixels.
 
-Don't forget to input the links to these images at the beginning of the 'sinogram.py' and 'Filtered_back_projection.py' scripts before running the program.
+Don't forget to input the links to your images at the beginning of the 'sinogram.py' and 'Filtered_back_projection.py' scripts before running the program.
