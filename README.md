@@ -11,4 +11,8 @@ The file 'phantom.txt' contains the attenuation coefficient values of the Shepp-
 
 Don't forget to input the links to your images at the beginning of the 'sinogram.py' and 'Filtered_back_projection.py' scripts before running the program.
 
+Sinogram of the Shepp-Logan phantom
 ![shepp_logan](image/shepp_logan.png)
+
+Reconstruction of an image of a dog after a Radon transform on the image
+![dog_reconstructed](image/dog_reconstructed.png)
