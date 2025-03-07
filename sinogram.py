@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-This program calculates the Radon transform of a grayscale sqaure image in .txt format.  
+This program calculates the Radon transform of a grayscale square image in .txt format.  
 You can adjust the number of projections with the variable "number_projection".
 
 Don't forget to input the link to your image below [txt format] before running the program.
